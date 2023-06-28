@@ -1,2 +1,2 @@
-# coursera-assignment
-coursera-assignment
+# House price prediction with polynomial and ridge regression 
+ 
